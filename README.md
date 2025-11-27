@@ -1,3 +1,3 @@
-2025SystemDesign_GitTraining /n
+2025SystemDesign_GitTraining </br>
 大手前大学のGitの扱いを勉強する授業のRepoです。
 色々試したものが入ってます。
